@@ -3,7 +3,7 @@
 Open Source Audit Project
 Student Details
 Name: ARPIT GUPTA
-Roll Number: 24BAI10289
+Registration Number: 24BAI10289
 
 Chosen Software
 Git (Version Control System)
