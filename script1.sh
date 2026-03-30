@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Script 1: System Identity Report 
-# Author: Rohan Sharma (24BCE10676) 
+# Author: Arpit Gupta (24BAI10289) 
 # Course: Open Source Software 
 # Software Choice: Git 
 
 # --- Variables ---
-STUDENT_NAME="Rohan"
+STUDENT_NAME="Arpit"
 SOFTWARE_CHOICE="Git"
 
 # --- System info ---
